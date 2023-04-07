@@ -27,11 +27,11 @@ Zoom Clone using Nodejs WebRTC and Websockets.
 </div>
 <div>
 <h2> 🌱학습을 통해 배운점 </h2>
-1. npm을 통해 다양한 nodeJS 모듈 학습
-2. 실시간 통신의 원리 (Handshake)
+1. npm을 통해 다양한 nodeJS 모듈 학습<br>
+2. 실시간 통신의 원리 (Handshake)<br>
 </div>
 <div>
 <h2> 🌱앞으로 더 배우고 싶은 것</h2>
-1. nodeJS의 제대로된 학습
-2. Spring Boot에서의 실시간 통신 학습(STOMP, Kurento)
+1. nodeJS의 제대로된 학습<br>
+2. Spring Boot에서의 실시간 통신 학습(STOMP, Kurento)<br>
 </div>
