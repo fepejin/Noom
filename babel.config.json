@@ -1,0 +1,6 @@
+//javascript 컴파일러 https://lihano.tistory.com/20
+//nodemon이란 https://velog.io/@gparkkii/NodejsNODEMON
+
+{
+    "presets": ["@babel/preset-env"]
+}
